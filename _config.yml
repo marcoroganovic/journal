@@ -1,9 +1,9 @@
 title: Marco Roganovic
 description: Full-Stack Developer and aspiring designer
 
-url: https://marcoroganvic.github.io/ 
+url: ""
 baseurl: ""
-paginate_path: "blog/page:num/"
+paginate_path: "blog/page/:num"
 permalink: blog/:title/
 
 markdown: kramdown
