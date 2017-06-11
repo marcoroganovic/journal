@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Marco Roganovic
+description: Full-Stack Developer and aspiring designer
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://marcoroganovic.github.io/journal
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -15,14 +15,13 @@ navigation:
  - title: Home
    url: /index.html
  - title: About
-   url: /about
+   url: https://marcoroganovic.github.io/#about-me
  - title: Contact
-   url: /contact
+   url: https://marcoroganovic.github.io/#contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: marcoroganovic
+   twitter: marcoroganovic
+   email: marcoroganovic@gmail.com
 
 google_analytics: "UA-58263416-1"
