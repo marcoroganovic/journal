@@ -189,9 +189,15 @@ HEADER STYLING
     max-width: 100%;
 	}
 
+
+  #particles {
+    display: none;
+  }
+
+
   .header-container {
     position: absolute;
-    margin: 0 10%;
+    margin: 0;
   }
 
 
