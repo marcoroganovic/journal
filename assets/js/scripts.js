@@ -13,6 +13,11 @@ $( document ).ready(function() {
       return Math.round(parseFloat(value));
     });
 
+
+    particlesJS.load("particles", "/journal/assets/js/particles.json", function() {
+      console.log("particles started");
+    });
+
 });
 
 
