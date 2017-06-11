@@ -15,9 +15,9 @@ navigation:
  - title: Home
    url: /index.html
  - title: About
-   url: https://marcoroganovic.github.io/#about-me
+   url: http://marcoroganovic.github.io/#about-me
  - title: Contact
-   url: https://marcoroganovic.github.io/#contact
+   url: http://marcoroganovic.github.io/#contact
 
 social:
    github: marcoroganovic
