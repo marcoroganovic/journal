@@ -13,7 +13,7 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /index.html
+   url: /
  - title: About
    url: http://marcoroganovic.github.io/#about-me
  - title: Contact
