@@ -64,6 +64,15 @@ HEADER STYLING
 		overflow: hidden;
 	}
 
+  .header-container {
+    position: relative;
+    margin: 0;
+  }
+
+  #particles {
+    display: none;
+  }
+
 	h1 {
 		font-size: 3em;
 		line-height: 1;
